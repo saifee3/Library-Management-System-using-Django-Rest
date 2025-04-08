@@ -241,5 +241,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Django REST Framework](https://www.django-rest-framework.org/)** - The toolkit for building RESTful APIs.  
 - **[Simple JWT](https://django-rest-framework-simplejwt.readthedocs.io/)** - Used for secure authentication.  
 - **[SQLite](https://www.sqlite.org/)** - The default database for local development.  
-- **[Real Python](https://realpython.com/django-rest-framework-quick-start/)** - Banner image sourced from their tutorial.  
+- Banner Image by **Real Python** on https://realpython.com/fastapi-python-web-apis/
 
